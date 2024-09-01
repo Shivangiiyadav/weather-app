@@ -1,0 +1,29 @@
+.card
+{
+	height:700px;
+	width:500px;
+	border:1px solid;
+	background-color:#03fc88;
+	//margin:500px;
+	border-radius:20px;
+}
+.search
+{
+	margin:70px;
+	
+}
+.wether
+{
+	text-align:center;
+}
+.col
+{ 
+    height:20px;
+     float:left;
+}
+.col1
+{
+	height:50px;
+	float:right;
+	margin-right:40px;
+}
